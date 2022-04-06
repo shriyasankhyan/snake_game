@@ -1,2 +1,2 @@
-# snake_game
+# Snake_Game
 Snake game created using java
