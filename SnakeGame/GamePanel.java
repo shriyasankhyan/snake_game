@@ -29,7 +29,7 @@ public class GamePanel extends JPanel implements ActionListener {
 //    R for right L for left U for up and D for down.
     char direction = 'R';
     boolean running = false;
-//    At the beginning it will not be running. That's why boolean running is set to the value as false.
+//    In the beginning snake will not be running. That's why boolean running is set to the value as false.
     Timer timer;
     Random random;
     GamePanel(){
