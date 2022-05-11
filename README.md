@@ -1,5 +1,5 @@
 # Snake Game
-●	Snake game creating using Java. 
+This is a snake game creating using Java Swing.
 In this, you need to eat maximum apples without touching the boundaries or snake’s body itself.
 
 I have this game divided into 3 java classes -> GameFrame.java , SnakeGame.java and GamePanel.java.
