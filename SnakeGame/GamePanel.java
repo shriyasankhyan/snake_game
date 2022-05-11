@@ -25,7 +25,6 @@ public class GamePanel extends JPanel implements ActionListener {
     int applesEaten = 0;
     int appleX;
     int appleY;
-//    X and Y coordinates of snake.
 
 //    R for right L for left U for up and D for down.
     char direction = 'R';
