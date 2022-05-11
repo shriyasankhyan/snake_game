@@ -4,11 +4,17 @@ In this, you need to eat maximum apples without touching the boundaries or snake
 
 I have this game divided into 3 java classes -> GameFrame.java , SnakeGame.java and GamePanel.java.
 
+</hr>
+</br>
 **SnakeGame**
+</br>
 Snake game is used to run the function as it has main method.
 In Snake game , GameFrame frame = new GameFrame(); , we have instantiated a new GameFrame object in our SnakeGame class and called it frame.
 
+</hr>
+</br>
 **GameFrame**
+</br>
 In this class , we have imported javax.swing.* 
 
 Java Swing -> It is a part of Java Foundation Classes and it is a lightweight Java graphical user interface (GUI) widget toolkit that includes a rich set of widgets.It is used to create window-based applications which makes it suitable for developing lightweight desktop applications. Java Swing is built on top of an abstract windowing toolkit API purely written in Java programming language.It provides interfaces that enable the development of input methods that can be used with any Java runtime environment. 
