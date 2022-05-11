@@ -135,7 +135,7 @@ g.fillOval(appleX, appleY, UNIT_SIZE, UNIT_SIZE) -> Fill an oval at appleX and a
 Then a for loop is started for coloring the body parts of the snake. When i = 0 , we can set the head of the snake. In this, we have set the head color to black and filled the whole grid by using the method fillRect to fill the rectangle at coordinates x[0] and y[0] with UNIT_SIZE as width and height.
 Else , when i is other than 0 , we set the color of the snake's body to dark gray and again filled a grid box at x[i] and y[i] with UNIT_SIZE as width and  height.
 
-**Setting the scoreboard**
+Setting the scoreboard
 We set the color of font to black , font type to Chiller , text is bold and font size is 50.
 The FontMetrics class is used to return the specific parameters for a particular Font object. An object of this class is created using the getFontMetrics() method.g.getFont is passed in this method.
 Then a string is drawn by using g.drawString to show the score.
